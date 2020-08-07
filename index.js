@@ -1,8 +1,12 @@
 // Write your classes here
 
 class Tree{
-  constractor(){
-    
+   constructor(species){
+    this.species=species
+  }
+  
+  static definition(){
+    return
   }
 }
 
